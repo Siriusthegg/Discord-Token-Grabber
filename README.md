@@ -1,2 +1,1 @@
-# Discord-Token-Grabber
-Discord Token Grabber [Firefox, Chrome. Opera GX]
+# Discord-Token-Grabber [Firefox]
